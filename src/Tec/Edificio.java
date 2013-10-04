@@ -1,9 +1,6 @@
 package Tec;
 
-/**
- *
- * @author marco Antonio 
- */
+
 
 
 import java.awt.*;
